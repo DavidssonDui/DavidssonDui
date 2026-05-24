@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Dui Davidsson
+# Dui Juniper Davidsson
 
 Current MA Economnics stdudent at the University of British Columbia and Fellow at the Stone Centre for Wealth and Income Inequality. My research interests intersect labuor economics, applied macroeconmics, and financial economics with econometrics and applied machine learning.
 
