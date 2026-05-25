@@ -20,7 +20,7 @@ Evaluates whether New York's 2015 "Get On Your Feet" loan forgiveness program sh
 
 ## Technical Toolkit
 
-**Languages:** Python, R, LaTeX
+**Languages:** Python, R, Stata, LaTeX
 **Econometrics:** Difference-in-differences, two-way fixed effects, propensity score matching, panel data methods, structural estimation (SMM, DEQN)
 **Machine learning:** PyTorch, transformer models (FinBERT), embedding extraction, supervised signal construction
 **Data:** Compustat/CRSP, SEC EDGAR, administrative panel data, multi-source merging at scale
