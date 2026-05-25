@@ -28,3 +28,9 @@ Evaluates whether New York's 2015 "Get On Your Feet" loan forgiveness program sh
 ## Contact
 
 [dui.davidsson@outlook.com] · [https://www.linkedin.com/in/dui-davidsson/] 
+
+---
+
+<img src="iceland.png" alt="In Iceland" width="400">
+
+*Photographed outside of Lake Askja in Iceland — a return visit to the country my dad and family is from*
